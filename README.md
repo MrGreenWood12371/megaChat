@@ -1,1 +1,1 @@
-# megaChat
+First setup of megaChat
